@@ -70,3 +70,8 @@ trim_string = "  Trim me  "
 trimmed_result = trim_string.strip()
 print(trimmed_result)
 
+## 13. Where in the text is the word "welcome"?:
+txt = "Hello, welcome to my world."
+x = txt.index("welcome")
+print(x)
+

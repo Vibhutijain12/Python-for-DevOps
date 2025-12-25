@@ -1,5 +1,6 @@
 ### Keywords in Python:
-Keywords are reserved words in Python that have predefined meanings and cannot be used as variable names or identifiers. These words are used to define the structure and logic of the program. They are an integral part of the Python language and are case-sensitive, which means you must use them exactly as specified.
+Keywords are reserved words in Python that have predefined meanings and cannot be used as variable names or identifiers.
+These words are used to define the structure and logic of the program. They are an integral part of the Python language and are case-sensitive, which means you must use them exactly as specified.
 
 Here are some important Python keywords:
 

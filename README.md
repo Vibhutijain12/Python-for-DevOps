@@ -32,3 +32,7 @@ Example: Developing a Python script that accepts command-line arguments to custo
 * Arithmetic, comparison, and logical operators.
 * Practice exercises and examples:
 Example: Using operators to perform calculations and comparisons in a DevOps script.
+
+#### Day 7: Conditional Handling using if, elif, and else
+* Conditional statements (if, elif, else).
+* Practice exercises and examples.

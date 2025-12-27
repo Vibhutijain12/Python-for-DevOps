@@ -36,3 +36,9 @@ Example: Using operators to perform calculations and comparisons in a DevOps scr
 #### Day 7: Conditional Handling using if, elif, and else
 * Conditional statements (if, elif, else).
 * Practice exercises and examples.
+
+#### Day 8: Working with Lists
+* Understanding lists and list data structure.
+* List manipulation and common list operations.
+* Practice exercises and examples:
+Example: Writing a script to manage a list of user accounts in a DevOps environment.

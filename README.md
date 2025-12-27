@@ -20,9 +20,15 @@
 * How to import a package?
 * What are Python workspaces?
 
-#### Reading and writing environment variables in Python.
+#### Day 5: Reading and writing environment variables in Python.
 * Using the os and dotenv modules.
 * Securing sensitive information in environment variables.
 * Handling command line arguments in Python.
 * Practice exercises and examples:
 Example: Developing a Python script that accepts command-line arguments to customize DevOps automation tasks.
+
+#### Day 6: Operators
+* Introduction to operators in Python.
+* Arithmetic, comparison, and logical operators.
+* Practice exercises and examples:
+Example: Using operators to perform calculations and comparisons in a DevOps script.

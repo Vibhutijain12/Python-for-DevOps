@@ -94,7 +94,7 @@ Example:
 python -m venv myenv
 
 # Activate the virtual environment (on Windows)
-myenv\Scripts\activate
+.\project-abc\Scripts\Activate.ps1
 
 # Activate the virtual environment (on macOS/Linux)
 source myenv/bin/activate

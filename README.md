@@ -14,8 +14,15 @@
 * Understanding variables in Python.
 * Variable scope and lifetime.
 
-#### Day 4: Functions, Modules and Packages
+#### Day 4: Functions, Modules, and Packages
 
-* What are differences between function, modules and packages ?
-* How to import a package ?
-* What are Python workspaces ?
+* What are the differences between functions, modules, and packages?
+* How to import a package?
+* What are Python workspaces?
+
+#### Reading and writing environment variables in Python.
+* Using the os and dotenv modules.
+* Securing sensitive information in environment variables.
+* Handling command line arguments in Python.
+* Practice exercises and examples:
+Example: Developing a Python script that accepts command-line arguments to customize DevOps automation tasks.

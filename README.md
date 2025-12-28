@@ -42,3 +42,9 @@ Example: Using operators to perform calculations and comparisons in a DevOps scr
 * List manipulation and common list operations.
 * Practice exercises and examples:
 Example: Writing a script to manage a list of user accounts in a DevOps environment.
+
+#### Day 9: Loops
+* Loops in Python (for and while).
+* Loop control statements (break, continue).
+* Practice exercises and examples:
+Example: Automating a log file analysis with a loop to find errors.

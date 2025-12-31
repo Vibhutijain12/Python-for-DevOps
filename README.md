@@ -63,7 +63,7 @@ Example: Managing a dictionary of server configurations and optimizing retrieval
 1. Example: Update a server resources in the server.conf file up on external notification.
 2. Example: write a python script which reads an APIs and parse a JSON and stores the output in json file.
 
-#### Day 12: Github-JIRA intergration Project - (Project-4)
+#### Day 12: Github-JIRA intergration Project - (Project-3)
 * Introduction to RESTful APIs.
 * Making HTTP requests using Python.
 * Parsing JSON responses and error handling.

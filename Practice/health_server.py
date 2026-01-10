@@ -1,4 +1,5 @@
-Ques: Remote Server Health Check - Write a script that: Pings a list of servers Reports which servers are UP or DOWN
+## Ques: Remote Server Health Check - Write a script that: Pings a list of servers Reports which servers are UP or DOWN
+
 import socket
 
 servers = [
